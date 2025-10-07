@@ -1,0 +1,16 @@
+.box{
+    display:flex;
+    gap:10px;
+    align-items:center;
+    margin-top:20px}
+.box1{
+    padding:10px 15px;
+    background:#eee;
+    border-radius:6px}
+.btn{
+    margin-top:15px;
+    padding:10px 20px;
+    cursor:pointer}
+.result{
+    margin-top:10px;
+    font-weight:600}
